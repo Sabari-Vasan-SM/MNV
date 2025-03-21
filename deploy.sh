@@ -3,7 +3,7 @@
 # Set Docker image name, tag, and container name
 IMAGE_NAME="nadinc/mvn"
 TAG="latest"
-CONTAINER_NAME="my_container"
+CONTAINER_NAME="sabarivasan1239/proj3"
 
 # Stop and remove any existing container with the same name
 docker stop $CONTAINER_NAME || true
