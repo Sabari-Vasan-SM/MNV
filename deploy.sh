@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Set Docker image name, tag, and container name
-IMAGE_NAME="sabarivasan/proj3"
+IMAGE_NAME="sabarivasan1239/projproj"
 TAG="latest"
 CONTAINER_NAME="my_container"  # <-- FIXED: No slash
 
