@@ -3,7 +3,7 @@
 # Set Docker image name, tag, and container name
 IMAGE_NAME="sabarivasan/proj3"
 TAG="latest"
-CONTAINER_NAME="proj3-container"  # <-- FIXED: No slash
+CONTAINER_NAME="my_container"  # <-- FIXED: No slash
 
 # Stop and remove any existing container with the same name
 docker stop $CONTAINER_NAME || true
